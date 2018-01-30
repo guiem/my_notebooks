@@ -5,3 +5,9 @@ As simple as that. A set of my own notebooks, sometimes simply serving the purpo
 * [__Python Unicode, how to avoid UnicodeEncodeError?__](https://github.com/guiem/my_notebooks/blob/master/python_unicode.ipynb): Tired of the freaking “*UnicodeEncodeError: ‘ascii’ codec can’t encode character u’\motherf++++++’ in position 69: ordinal not in range(128)*“ error message?
 
 * [__Interesting concepts__](https://github.com/guiem/my_notebooks/blob/master/concepts.ipynb): a simple list of (useful?) concepts I don't want to forget.
+
+And remember, if you don't like Jupyter notebooks you can always export them as Python scripts:
+
+```
+jupyter nbconvert --to script <name of the notebook>
+```
