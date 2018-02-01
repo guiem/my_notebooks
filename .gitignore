@@ -98,5 +98,6 @@ ENV/
 # AI
 MNIST_data
 
-# Anniversary messages
+# Anniversary
 anniversary/messages
+anniversary_*.ipynb
