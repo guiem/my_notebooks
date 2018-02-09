@@ -6,6 +6,8 @@ As simple as that. A set of my own notebooks, sometimes simply serving the purpo
 
 * [__Interesting concepts__](https://github.com/guiem/my_notebooks/blob/master/concepts.ipynb): a simple list of (useful?) concepts I don't want to forget.
 
+* [__Euler's number__](https://github.com/guiem/my_notebooks/blob/master/eulers_number.ipynb): I just like Euler's number... wanna add cool facts about _e_? Fork it and share!
+
 And remember, if you don't like Jupyter notebooks you can always export them as Python scripts:
 
 ```
