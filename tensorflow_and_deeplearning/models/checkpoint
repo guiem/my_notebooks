@@ -1,0 +1,2 @@
+model_checkpoint_path: "convolutional_batch.ckpt"
+all_model_checkpoint_paths: "convolutional_batch.ckpt"
