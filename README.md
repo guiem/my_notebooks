@@ -6,7 +6,7 @@ As simple as that. A set of my own notebooks, sometimes simply serving the purpo
 
 * [__MNIST__](https://github.com/guiem/my_notebooks/blob/master/tensorflow_and_deeplearning/mnist.ipynb): yet another MNIST tutorial. You won't find anything new here, I was just getting familiar with Tensorflow. However, what I don't usually find in other tutorials are practical ways to save / restore models or even to feed an individual photo and predict its class. So I made sure that I was trying all this stuff, plus a naive reflection in the end on how deep learning works 🤖 versus how we humans 👴 learn/model_knowledge.
 
-* [__Automata__](https://github.com/guiem/my_notebooks/blob/e67ba62e860b454cc29d25f7b457e714110a1f92/automata/contents.ipynb): exploring Automata (and Turing Machines) theory through a series of examples and exercices.
+* [__Automata__](automata): exploring Automata (and Turing Machines) theory through a series of examples and exercices.
 
 * [__Python Unicode, how to avoid UnicodeEncodeError?__](https://github.com/guiem/my_notebooks/blob/master/python_unicode.ipynb): Tired of the freaking “*UnicodeEncodeError: ‘ascii’ codec can’t encode character u’\motherf++++++’ in position 69: ordinal not in range(128)*“ error message?
 
