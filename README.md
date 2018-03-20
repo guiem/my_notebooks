@@ -4,7 +4,7 @@ As simple as that. A set of my own notebooks, sometimes simply serving the purpo
 
 * [__Anniversary__](anniversary/anniversary.ipynb): analysis of ~75K text phone messages exchanged with my partner. [Reddit](https://www.reddit.com/r/datascience/comments/7v4r0l/i_analyzed_75k_text_phone_messages_exchanged_with/) for more ideas =)   
 
-* [__Pandas vs. Numpy (matrix dot product) & Word Embeddings__](pandas_vs_numpy/pandas_vs_numpy.ipynb): performance comparative between Pandas and Numpy on a very specific operation - `dot` product - (to compute similarity between word embeddings)
+* [__Pandas vs. Numpy (matrix dot product) & Word Embeddings__](pandas_vs_numpy/pandas_vs_numpy.ipynb): performance comparative between Pandas and Numpy on a very specific operation - `dot` product - (to compute similarity between word embeddings). [Reddit](https://www.reddit.com/r/datascience/comments/85okdr/pandas_vs_numpy_my_personal_quest_with_graphs_and/) and [Medium](https://medium.com/@guiem/pandas-vs-numpy-test-it-yourself-10ac834e4d1e) posts.
 
 * [__MNIST__](tensorflow_and_deeplearning/mnist.ipynb): yet another MNIST tutorial. You won't find anything new here, I was just getting familiar with Tensorflow. However, what I don't usually find in other tutorials are practical ways to save / restore models or even to feed an individual photo and predict its class. So I made sure that I was trying all this stuff, plus a naive reflection in the end on how deep learning works 🤖 versus how we humans 👴 learn/model_knowledge.
 
